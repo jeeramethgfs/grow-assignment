@@ -1,0 +1,93 @@
+sex	sample_number	category	number	code	trait	property	reported_genes	snp_id	num_trait_allele	total.snp	interpret.3scale	interpret.report	interpret.5scale	snp.score	filler	filler.1	filler.2	avg.num.snp	avg.scale5	avg.score
+F	G097	diet	1	DE001	Obesity (diet)	bad	MC4R,FTO	rs17782313,rs9939609	1	4	low	normal	2	25	-	-	-	0.959677419354839	2	23.991935483871
+F	G097	diet	2	DE002	Carbohydrate sensitivity (increased saturated fats and DM)	bad	ARDB2,FABP2,TCF7L2	rs1799883,rs1042714,rs7903146	1	6	low	NA	1	16.6666666666667	-	-	-	0.581653225806452	1	9.69422043069557
+F	G097	diet	3	DE003	Fat sensitivity	bad	ADIPOQ,PPARG	rs17300539,rs1801282	2	4	med	NA	3	50	-	-	-	2.13709677419355	3	53.4274193548387
+F	G097	diet	4	DE004	Salt sensitivity (increased risk for hypertension)	bad	ADD1,AGT	rs4961,rs699	0	4	low	NA	1	0	-	-	-	0.657258064516129	2	16.4314516129032
+F	G097	diet	5	DE005	Asian flush (alcohol sensitivity)	bad	ALDH2	rs671	1	2	med	NA	3	50	-	-	-	0.176411290322581	1	8.82056451612903
+F	G097	diet	6	DE006	Coffee sensitivity	bad	CYP1A2	rs762551	2	2	high	NA	5	100	-	-	-	1.20866935483871	3	60.4334677419355
+F	G097	diet	7	DE007	Taste sensitivity (bitter)	bad	TAS2R38,TAS2R38,TAS2R38	rs10246939,rs1726866,rs713598	2	6	med	likely	2	33.3333333333333	-	-	-	2.01814516129032	2	33.6357526848992
+F	G097	diet	8	DE008	Taste sensitivity (sweet)	bad	TAS1R3	rs35744813	2	2	high	sensitive	5	100	-	-	-	1.66633064516129	4	83.3165322580645
+F	G097	diet	9	DE009	Sweet tooth (prefer candies)	bad	FGF21,FUT1	rs838133	0	2	low	normal	1	0	-	-	-	0	1	0
+F	G097	diet	10	DE010	Lactose intolerance	bad	MCM6,MCM6	rs4988235,rs182549	0	4	low	NA	1	0	-	-	-	1.8820564516129	3	47.0514112903226
+F	G097	diet	11	DE011	Gluten intolerance	bad	HLA-DQA1	rs2187668	0	2	low	NA	1	0	-	-	-	0	1	0
+F	G097	diet	12	DE012	peanut allergy	bad	HLA-DRA,LOC100507686	rs7192,rs9275596	1	4	low	NA	2	25	-	-	-	0.917338709677419	2	22.9334677419355
+F	G097	diet	13	DE013	Reduced antioxidant response (diet)	bad	CAT,GPX1,SOD2	rs1001179,rs1050450,rs4880	0	6	low	normal need	1	0	-	-	-	0.279233870967742	1	4.65389785008065
+F	G097	diet	14	DE014	Increased detoxification phase I (trapping antioxidants)	good	CYP1A1,CYP3A4	rs1048943,rs2740574	0	4	low	bad trapping	1	0	-	-	-	0	1	0
+F	G097	diet	15	DE015	Increased detoxification phase II (antioxidant removal)	good	GSTP1,NFE2L2,NQO1	rs1695,rs1800566,rs35652124	5	6	high	good efficacy	5	83.3333333333333	-	-	-	3.84173387096774	4	64.0288978495464
+F	G097	diet	16	DE016	Loss of apetite control (hard to feel full)	bad	MC4R,FTO	rs17782313,rs9939609	1	4	low	easy to feel full	2	25	-	-	-	0.959677419354839	2	23.991935483871
+F	G097	diet	17	DE017	Hunger (increased susceptibility to be hungry)	bad	NMB	rs1051168	0	2	low	normal	1	0	-	-	-	0.29133064516129	2	14.5665322580645
+F	G097	diet	18	DE018	Eating disinhibition	bad	TAS2R38	rs1726866	0	2	low	low risk	1	0	-	-	-	0	1	0
+F	G097	diet	19	DE019	Increased food desire	bad	ANKK1	rs1800497	0	2	low	normal	1	0	-	-	-	0	1	0
+F	G097	diet	20	DE020	Snacking behavior	bad	LEPR	rs2025804	2	2	high	yes	5	100	-	-	-	1.12399193548387	3	56.1995967741936
+F	G097	love	1	LV001	Erectile dysfunction	bad	NOS3,NOS3	rs2070744,rs1799983	1	4	low	NA	2	25	-	-	-	0.671370967741935	2	16.7842741935484
+F	G097	love	2	LV002	Sildenafil (Viagra) response (better response)	good	GNB3	rs5443	2	2	high	normal response	5	100	-	-	-	NA	NA	NA
+F	G097	love	3	LV003	Male Infertility (azoospermia)	bad	SOX5,SIRPA-SIRPG	rs10842262,rs6080550	1	4	low	NA	2	25	-	-	-	0.852822580645161	2	21.320564516129
+F	G097	love	4	LV004	benign prostate hyperplasia (BPH)	bad	NA,NA,NA,NA,FGFR4	rs10180282,rs2556378,rs2853677,rs2981575,rs351855	2	10	low	NA	2	20	-	-	-	2.66935483870968	2	26.6935483870968
+F	G097	love	7	LV007	Early menopause	bad	BRSK1,MCM8,,NA	rs1172822,rs16991615,rs365132,rs9379896	5	8	med	NA	4	62.5	-	-	-	5.05342741935484	4	63.1678427419355
+F	G097	love	6	LV006	Polycystic ovary syndrome	bad	LHCGR,THADA,DENND1A	rs13405728,rs13429458,rs2479106	2	6	med	NA	2	33.3333333333333	-	-	-	2.53528225806452	3	42.2547043005847
+F	G097	love	5	LV005	Endometriosis	bad	AC084879.1,NA,NA,NA,NA	rs10859871,rs12700667,rs13394619,rs1537377,rs7739264	3	10	med	NA	2	30	-	-	-	4.55846774193548	3	45.5846774193548
+F	G097	nutrition	1	NU001	Reduced production Vitamin A	bad	BCO1,BCO1	rs12934922,rs7501331	1	4	low	normal need	2	25	-	-	-	0.756048387096774	2	18.9012096774194
+F	G097	nutrition	2	NU002	Low Vitamin B2 level	bad	MTHFR	rs1801133	0	2	low	normal need	1	0	-	-	-	0	1	0
+F	G097	nutrition	3	NU003	Low Vitamin B6 level	bad	NBPF3	rs4654748	1	2	med	higher need	3	50	-	-	-	0.973790322580645	3	48.6895161290323
+F	G097	nutrition	4	NU004	Low Vitamin B12 level	bad	FUT2	rs492602	0	2	low	normal need	1	0	-	-	-	0	1	0
+F	G097	nutrition	5	NU005	Low Vitamin C level	bad	SLC23A1	rs33972313	0	2	low	normal need	1	0	-	-	-	0	1	0
+F	G097	nutrition	6	NU006	Low Vitamin D level	bad	CYP2R1,NADSYN1,CYP2R1,GC	rs10741657,rs12785878,rs2060793,rs2282679	2	8	low	normal need	2	25	-	-	-	2.53427419354839	2	31.6784274193548
+F	G097	nutrition	7	NU007	Low Vitamin E level	bad	intergenic	rs12272004	2	2	high	higher need	5	100	-	-	-	1.95161290322581	5	97.5806451612903
+F	G097	nutrition	8	NU008	Decreased serum calcium concentration	bad	LINC00709,DGKD,CYP24A1,CASR,RPS28P8, VWA8-AS1,CARS1,GCKR	rs10491003,rs1550532,rs1570669,rs1801725,rs7336933,rs7481584,rs780094	7	14	med	normal need	3	50	-	-	-	8.68951612903226	4	62.0679723508468
+F	G097	nutrition	9	NU009	Low folate level	bad	MTHFR	rs1801133	0	2	low	normal need	1	0	-	-	-	0	1	0
+F	G097	nutrition	10	NU010	Low iodine (reduced oxidative response?)	bad	GPX1	rs1050450	0	2	low	normal need	1	0	-	-	-	0	1	0
+F	G097	nutrition	11	NU011	Decreased iron uptake (hemochromatosis)	bad	HFE,HFE,TMPRSS6,TFR2	rs1799945,rs1800562,rs4820268,rs7385804	2	8	low	normal need	2	25	-	-	-	1.52520161290323	2	19.0650201612903
+F	G097	nutrition	12	NU012	Decreased magnesium uptake (hypomagnesemia)	bad	TRPM6,SHROOM3,DCDC5,MUC1,ATP2B1	rs13146355,rs3925584,rs4072037,rs7965584,rs11144134	5	10	med	higher need	3	50	-	-	-	5.26108870967742	3	52.6108870967742
+F	G097	nutrition	13	NU013	Decreased omega-3 uptake	bad	FADS1	rs174547	1	2	med	higher need	3	50	-	-	-	0.710685483870968	2	35.5342741935484
+F	G097	nutrition	14	NU014	Decreased serum phosphorus concentration	bad	?,CSTA,C12orf4,IP6K3,PDE7B	rs1697421,rs17265703,rs2970818,rs9469578,rs947583	3	10	med	higher need	2	30	-	-	-	3.55141129032258	3	35.5141129032258
+F	G097	nutrition	15	NU015	Decreased serum selenium concentration	bad	SELENOF	rs561104	2	2	high	higher need	5	100	-	-	-	1.09173387096774	3	54.5866935483871
+F	G097	nutrition	16	NU016	Low Zinc level	bad	IL6	rs1800795	0	2	low	normal need	1	0	-	-	-	0.138104838709677	1	6.90524193548387
+F	G097	nutrition	17	NU017	Biotinidase deficiency	bad	BTD	rs13078881	0	2	low	NA	1	0	-	-	-	NA	NA	NA
+F	G097	pollution	1	PL001	Pollution-induced cardiovascular disease (Reduced risk)	bad	IL6	rs2069832	2	2	high	NA	5	100	-	-	-	1.86693548387097	5	93.3467741935484
+F	G097	pollution	2	PL002	Pollution-induced asthma (Reduced risk)	bad	NQO1	rs1800566	1	2	med	NA	3	50	-	-	-	0.778225806451613	3	38.9112903225806
+F	G097	pollution	3	PL003	Secondhand smoke susceptibility (risk of asthma)	bad	GSTP1	rs1695	0	2	low	NA	1	0	-	-	-	0.470766129032258	2	23.5383064516129
+F	G097	skin	1	SK001	Wrinkles	bad	STXBP5L	rs322458	0	2	low	NA	1	0	-	-	-	0	1	0
+F	G097	skin	2	SK002	Sun sensitivity	bad	intergenic,TYR,SLC24A5,MC1R,intergenic	rs1015362,rs1393350,rs1426654,rs1805009,rs4911414	0	10	low	NA	1	0	-	-	-	1.06350806451613	1	10.6350806451613
+F	G097	skin	3	SK003	Freckles (Ephelides)	bad	TYR,IRF4,intergenic,intergenic	rs1042602,rs12203592,rs1540771,rs4911414	2	8	low	NA	2	25	-	-	-	2.26411290322581	2	28.3014112903226
+F	G097	skin	4	SK004	Sun Spots (Lentigines)	bad	IRF4,MC1R,SLC45A2	rs12203592,rs2228479,rs26722	0	6	low	NA	1	0	-	-	-	0.317540322580645	1	5.29233871035282
+F	G097	skin	5	SK005	Stretch Marks (Striae Distensae) 	bad	HMCN1,TMEM18,ELN	rs10798036,rs7594220,rs7787362	4	6	med	NA	4	66.6666666666667	-	-	-	2.48286290322581	3	41.3810483867641
+F	G097	skin	7	SK007	keloid risk	bad	FOXL2,NEDD4,intergenic	rs1511412,rs8032158,rs873549	2	6	med	NA	2	33.3333333333333	-	-	-	1.65524193548387	2	27.5873655916734
+F	G097	skin	8	SK008	Antioxidant response (skin)	good	CAT,GPX1,SOD2	rs1001179,rs1050450,rs4880	4	6	med	reduced response	4	66.6666666666667	-	-	-	1.72076612903226	2	28.6794354820867
+F	G097	skin	6	SK006	Cellulite	bad	HIF1A	rs11549465	1	2	med	NA	3	50	-	-	-	0.163306451612903	1	8.16532258064516
+F	G097	skin	9	SK009	ECZEMA (ATOPIC DERMATITIS) : Skin irritant sensitivity	bad	FLG,FLG	rs61816761,rs121909626	2	4	med	NA	3	50	-	-	-	0.00100806451612903	1	0.0504032258064516
+F	G097	skin	10	SK010	CONTACT DERMATITIS : Itchy skin	bad	FLG	rs61816761	0	2	low	NA	1	0	-	-	-	0.00100806451612903	1	0.0504032258064516
+F	G097	skin	11	SK011	DRY SKIN (XEROSIS AND ICHTHYOSIS)	bad	FLG,FLG	rs61816761,rs121909626	2	4	med	NA	3	50	-	-	-	0.00100806451612903	1	0.0504032258064516
+F	G097	skin	12	SK012	Psoriasis	bad	TP63,COG6,RUNX1,LOC144817	rs28512356,rs34394770,rs8128234,rs9533962	6	8	high	NA	4	75	-	-	-	4.38508064516129	3	54.8135080645161
+F	G097	skin	13	SK013	Alopecia and baldness	bad	AR	rs6152	2	2	high	NA	5	100	-	-	-	1.42237903225806	4	71.1189516129032
+F	G097	skin	14	SK014	Severe acne	bad	SELL,DDB2	rs747650,rs7531806	1	4	low	NA	2	25	-	-	-	0.943548387096774	2	23.5887096774194
+F	G097	skin	15	SK015	Varicose vein	bad	CASZ1,LINC01565 - RPN1,NFATC2,KCNJ2 - CALM2P1	rs11121615,rs12625547,rs236530,rs9880192	2	8	low	NA	2	25	-	-	-	2.80947580645161	2	35.1184475806452
+F	G097	skin	16	SK016	Skin glycation	bad	AGER,AGER,GLO1	rs1049346,rs1800625,rs2070600	0	6	low	NA	1	0	-	-	-	0	1	0
+F	G097	skin	17	SK017	Increased collagen breakdown	bad	MMP1,MMP3	rs3025058,rs1799750	0	4	low	NA	1	0	-	-	-	0	1	0
+F	G097	skin	18	SK018	Hair greying	bad	IRF4	rs12203592	0	2	low	NA	1	0	-	-	-	0.00604838709677419	1	0.30241935483871
+F	G097	skin	19	SK019	Minoxidil	bad	SULT1A1	rs4787456	0	2	low	NA	1	0	-	-	-	NA	NA	NA
+F	G097	skin	20	SK020	Finasteride & Dutasteride	bad	SRD5A1,SRD5A2	rs2224310,rs477930	0	4	low	NA	1	0	-	-	-	NA	NA	NA
+F	G097	sport	1	SP001	Increased aerobic Capacity (vo2max)	good	HIF1A ,VEGFA,PPARGC1A	rs11549465,rs2010963,rs8192678	3	6	med	mod capacity	3	50	-	-	-	3.17641129032258	3	52.9401881728528
+F	G097	sport	2.1	SP0021	Beneficial for Strength Training	good	INSIG2, LOC107985940	rs7566605	1	2	med	0	3	50	-	-	-	1.35181451612903	4	67.5907258064516
+F	G097	sport	2.2	SP0022	Lean body mass	good	TRHR	rs16892496	2	2	high	1	5	100	-	-	-	0.919354838709677	3	45.9677419354839
+F	G097	sport	2.3	SP0023	Enhanced muscle power	good	ACTN3	rs1815739	2	2	high	1	5	100	-	-	-	0.971774193548387	3	48.5887096774194
+F	G097	sport	2.4	SP0024	Exercise-associated muscle cramps	bad	AMPD1	rs17602729	0	2	low	1	1	0	-	-	-	0	1	0
+F	G097	sport	3.1	SP0031	Risk of muscle injury	bad	ACTN3	rs1815739	0	2	low	-1	1	0	-	-	-	1.02822580645161	3	51.4112903225806
+F	G097	sport	3.2	SP0032	Risk of Achilles Tendon Injury	bad	GDF5,MMP3	rs679620,rs143383	0	4	low	-1	1	0	-	-	-	0	1	0
+F	G097	sport	3.3	SP0033	Risk of ACL Injury	bad	COL1A1	rs1800012	0	2	low	-1	1	0	-	-	-	0	1	0
+F	G097	sport	3.4	SP0034	Risk of ankle injury	bad	ACTN3	rs1815739	0	2	low	-1	1	0	-	-	-	1.02822580645161	3	51.4112903225806
+F	G097	sport	4	SP004	Increased flexibility	good	ACTN3	rs1815739	0	2	low	low flex	1	0	-	-	-	1.02822580645161	3	51.4112903225806
+F	G097	sport	5.1	SP0051	Obesity (sport)	bad	MC4R,FTO	rs17782313,rs9939609	1	4	low	-1	2	25	-	-	-	0.959677419354839	2	23.991935483871
+F	G097	sport	5.2	SP0052	Faster metabolism	good	LEPR	rs4606347	0	2	low	1, normal	1	0	-	-	-	0.167338709677419	1	8.36693548387097
+F	G097	sport	5.3	SP0053	Decreased Weight Loss Response To Exercise	bad	FTO	rs1121980	0	2	low	-1	1	0	-	-	-	0	1	0
+F	G097	sport	5.5	SP0055	Weight Loss-Regain	bad	ADIPOQ	rs17300539	2	2	high	1, easy to regain	5	100	-	-	-	1.9929435483871	5	99.6471774193548
+F	G097	sport	6.2	SP0062	Increased power capacity	good	VDR,TRHR,IL6,ACTN3,PPARA,AGT	rs1544410,rs1800795,rs4253778,rs699,rs16892496,rs1815739	8	12	med	NA	4	66.6666666666667	-	-	-	5.67540322580645	3	47.2950268817974
+F	G097	sport	7.1	SP0071	Recovery efficiency	good	IL6,ACTN3	rs1800795,rs1815739	4	4	high	1	5	100	-	-	-	2.83366935483871	4	70.8417338709677
+F	G097	sport	7.2	SP0072	Fast lactate clearance (delayed fatigue)	good	PPARGC1A	rs8192678	0	2	low	-1	1	0	-	-	-	0	1	0
+F	G097	sport	8	SP008	Hypertension (exercised recommended)	bad	EDN1	rs5370	0	2	low	normal	1	0	-	-	-	0.714717741935484	2	35.7358870967742
+F	G097	sport	9	SP009	Enhanced insulin sensitivity Response To Exercise	good	LIPC	rs1800588	2	2	high	high	5	100	-	-	-	1.30342741935484	4	65.1713709677419
+F	G097	sport	10	SP010	Enhanced HDL (good) cholesterol Response To Exercise	good	PPARD	rs2016520	0	2	low	normal 	1	0	-	-	-	0	1	0
+F	G097	stress	1	SS001	Stress response (increased performance when stressed)	good	COMT	rs4680	0	2	low	poor performance	1	0	-	-	-	1.28225806451613	4	64.1129032258064
+F	G097	stress	2	SS002	fibromyalgia	bad	COMT,COMT	rs4680,rs4818	0	4	low	NA	1	0	-	-	-	1.93951612903226	3	48.4879032258064
+F	G097	stress	3	SS003	myopia	bad	MYP11,,TGFB1	rs10034228,rs1800470,rs1585471	0	6	low	NA	1	0	-	-	-	1.82560483870968	2	30.4267473110786
+F	G097	stress	4	SS004	Insomnia symptoms (never/rarely vs. usually)	bad	VRK2,PHF2,ACTR1A,PSMC3,MDGA1,MYO1H,PTHR1,LOC126987/PRMT6,OLFM4/RP11-365K22.1,UNGP1/LOC642659,NUDT12/RAB9P1,CCDC68/TCF4,MSRA,PAX8/LOC100130100,LOC100132353/KRT8P21,LOC729704,FOXP2,PML,HISPPD1/C5orf30,LOC647038/BCL11A,NADK,NAV1,LOC643714,RP3-439I14.1,NAB2/STAT6,LOC644456/LOC730134,OAZ3,CYP2W1,LOC100130786/LOC645323,HEXIM2/LOC339192,LOC339524/LMO4,RBM6,RBFOX1,FLJ35282/LOC402360,IQCH/C15orf61,KLHDC8B,ASCC3	rs2507,rs7359257,rs3808348,rs1051061,rs10838708,rs10947690,rs11066591,rs11926707,rs12097821,rs1343607,rs1544637,rs161645,rs1631486,rs17151854,rs1823125,rs1993709,rs2020942,rs2189012,rs26232,rs268067,rs2803316,rs2820292,rs3112612,rs314280,rs324017,rs4571506,rs4792867,rs6446298,rs7617480,rs7769142,rs10821136,rs35881094,rs3790515,rs60380162,rs6500744,rs7029201	31	74	med	NA	3	41.8918918918919	-	-	-	36.0252016129032	3	48.682704882127
+F	G097	stress	5	SS005	caffeine-related insomnia	bad	MTNR1B,,NEDD4L,,,ADORA2A,PRIMA1,PRIMA1,	rs10830964,rs158856,rs16905439,rs2103117,rs5751876,rs6575353,rs7628219,rs11706236	13	18	high	NA	4	72.2222222222222	-	-	-	10.7661290322581	4	59.8118279578327
